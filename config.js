@@ -6,9 +6,9 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['5493751585118', '𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['59996788826', '𝑱𝒖𝒂𝒏𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['59996695544', 'Edimara𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
+  ['584125418042', 'isabella bot', true],
+  ['584264847273', 'Isabella hermosa 💖🐈', true],
+  ['584127234127', 'due𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
   ['50495086382'],
   ['584166662765'],
   ['584163647116'],
@@ -85,8 +85,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '❤️ 𝙔𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝑱𝒖𝒂𝒏 𝘿𝙞𝙤𝙨'
+global.packname = '❤️ BOTCHUPALOATTISABELLA-𝙈𝘿'
+global.author = 'Isabella'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
